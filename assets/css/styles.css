@@ -22,7 +22,7 @@ body {
 /*-- Navbar --*/
 
 .navbar-nav .nav-item .nav-link {
-  color: #F7F7F7;
+  color: grey;
   font-weight: 600;
 }
 
